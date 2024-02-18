@@ -49,5 +49,4 @@ Já segue para não perder nenhum lançamento.
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://github.com/ericshantos/ericshantos/blob/output/github-contribution-grid-snake.svg)
-)
+![snake gif](https://github.com/ericshantos/ericshantosE/blob/output/github-contribution-grid-snake.gif)
