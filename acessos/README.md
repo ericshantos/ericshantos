@@ -14,5 +14,3 @@ Stats: [Repositório GitHub Stats](https://github.com/anuraghazra/github-readme-
 Não se esqueça de dar uma passadinha no vídeo "[Como personalizar o seu perfil no Github](https://www.youtube.com/watch?v=cRoBt6AZgjc&t=922s)", do canal Sujeito Programador para entender como aplicar no seu GitHub.
 
 Para aplicar a contribuition grad snake no seu GitHub Profile READEME.md, acesso o seguinte link: [gerar-jogo-de-cobra-da-grade-de-contribuicao-do-github](https://github.com/marketplace/actions/gerar-jogo-de-cobra-da-grade-de-contribuicao-do-github)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=donut)
