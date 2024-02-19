@@ -35,6 +35,7 @@ Entusiasta de tecnologia em acensão 🚀🚀
 
 Já segue para não perder nenhum lançamento.
 
+## Atividades
 <!-- visitors count  -->
 
 <p align="center" >   
