@@ -35,12 +35,6 @@ Entusiasta de tecnologia em acensão 🚀🚀
 
 Já segue para não perder nenhum lançamento.
 
-###  Projetos:
-
-- [Workshop IMN](https://github.com/ericshantos/workshop-introducao-linguagem-de-programacao): Workshop destinado a apresentar o contexto de linguagem de programacao aos participantes do IMN (Instituto Meninas Negras).
-- [jogo-da-forca](https://github.com/ericshantos/jogo-da-forca): Um jogo de adivinhação de uma palavra aleatória.
-
-<h1>Atividade</h1>
 <!-- visitors count  -->
 
 <p align="center" >   
