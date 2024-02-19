@@ -41,7 +41,7 @@ Já segue para não perder nenhum lançamento.
   <img src="https://profile-counter.glitch.me/ericshantos/count.svg" />  
 </p>
 
-<!-- github workflow  -->
+<!-- github workflow  .-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake-dark.svg">
