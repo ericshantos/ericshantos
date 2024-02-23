@@ -23,7 +23,7 @@
 
 </div>
 
-## Tecnologias do dia a dia
+## Tecnologias do dia-a-dia
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
