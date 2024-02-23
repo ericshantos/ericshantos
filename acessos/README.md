@@ -7,7 +7,7 @@ Abaixo, vocês encontram arquivos hmtl que ao serem abertos, te redirecionaram p
 
 Emojis: [Emolipedia.com](emojis/Emojipedia.html)
 
-Badges: [dev.to](https://dev.to/envoy_/awesome-clones-32l8)
+Badges: [dev.to]([https://dev.to/envoy_/awesome-clones-32l8](https://dev.to/envoy_/150-badges-for-github-pnk))
 
 Stats: [Repositório GitHub Stats](https://github.com/anuraghazra/github-readme-stats/tree/master)
 
