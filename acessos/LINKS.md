@@ -5,9 +5,9 @@ No processo, achei o canal do [@devfraga](https://github.com/devfraga/) que tem 
 
 Abaixo, vocês encontram arquivos hmtl que ao serem abertos, te redirecionaram para sites que podem ajudar no processo de personalizar sua GitHub Profile README.md. os mesmos links tmabém estão dispostos no vídeo "Como personalizar o seu perfil no GitHub", do canal Sujeito Programador:
 
-Emojis: [Emolipedia.com](emojis/Emojipedia.html)
+Emojis: [Emolipedia.com](https://emojipedia.org/rocket)
 
-Badges: [dev.to]([https://dev.to/envoy_/awesome-clones-32l8](https://dev.to/envoy_/150-badges-for-github-pnk))
+Badges: [dev.to](https://dev.to/envoy_/awesome-clones-32l8)
 
 Stats: [Repositório GitHub Stats](https://github.com/anuraghazra/github-readme-stats/tree/master)
 
