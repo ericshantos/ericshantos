@@ -11,33 +11,47 @@
 
 ### 
 
-<div align="left" style="display: flex; justify-content: space-between"> 
-
-<div>
-
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&theme=radical)
+<div align='Center' style="display: flex; justify-content: space-between">
+  <div>
+    <a>
+      <img src='https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&theme=radical' alt="Eric's GitHub stats" />
+    </a>
+  </div>
+  <div>
+    <a>
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=donut' alt='Top Language' />
+    </a>
+  </div>
 </div>
 
-<div>
 
-![Top Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=donut)
+<h2 align='Center'>Tecnologias do dia-a-dia</h2>
+
+<div align='Center'>
+  <div align='Center'>
+      <a href='https://www.python.org/'>
+          <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='Python'>
+      </a> <a href='https://www.markdownguide.org/'>
+          <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='MarkDown'>
+      </a> <a href='https://github.com/'>
+          <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>
+      </a> <a href='https://www.microsoft.com/pt-br/download/windows'>
+          <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='GitHub'>
+      </a> <a href='https://flask.palletsprojects.com/en/3.0.x/'>
+          <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' alt='Flask'>
+      </a> 
+  </div>
 </div>
 
+
+<div align='Center'>
+  Entusiasta de tecnologia em acensão 🚀🚀
+      
+  Já segue para não perder nenhum lançamento.
 </div>
 
-## Tecnologias do dia-a-dia
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/download/windows)
-[![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-2022)
-
-Entusiasta de tecnologia em acensão 🚀🚀
-
-Já segue para não perder nenhum lançamento.
-
-## Atividades
+<h2 align='Center'>Atividades</h2>
 <!-- visitors count  -->
 
 <p align="center" >   
