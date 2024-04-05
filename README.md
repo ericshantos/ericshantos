@@ -9,46 +9,32 @@
   </a>
 </div>
 
+<br>
+<br>
+
+- 😃 Entusiasta em tecnologia
+- 👨🏾‍💻 PYTHON | FLASK | DOCKER
+- 📌 São Paulo, Brasil 
+
+  
+
+<h3></h3>
+<div align="right">
+  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img alt="" height="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+</div>
+
 ### 
 
-<div align='Center' style="display: flex; justify-content: space-between">
-  <div>
-    <a>
-      <img src='https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&theme=radical' alt="Eric's GitHub stats" />
-    </a>
-  </div>
-  <div>
-    <a>
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=donut' alt='Top Language' />
-    </a>
-  </div>
+<hr>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
-<h2 align='Center'>Tecnologias do dia-a-dia</h2>
-
-<div align='Center'>
-  <div align='Center'>
-      <a href='https://www.python.org/'>
-          <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='Python'>
-      </a> <a href='https://www.markdownguide.org/'>
-          <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='MarkDown'>
-      </a> <a href='https://github.com/'>
-          <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>
-      </a> <a href='https://www.microsoft.com/pt-br/download/windows'>
-          <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='GitHub'>
-      </a> <a href='https://flask.palletsprojects.com/en/3.0.x/'>
-          <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' alt='Flask'>
-      </a> 
-  </div>
-</div>
-
-
-<div align='Center'>
-  Entusiasta de tecnologia em acensão 🚀🚀
-      
-  Já segue para não perder nenhum lançamento.
-</div>
 
 
 <h2 align='Center'>Atividades</h2>
