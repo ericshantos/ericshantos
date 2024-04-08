@@ -20,11 +20,11 @@
 
 <h3></h3>
 <div align="right">
-  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img alt="" height="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  <img alt="Python" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Git" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Flask" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img alt="Docker" height="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="MarkDown" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
 
 <hr>
