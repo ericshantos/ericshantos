@@ -13,7 +13,7 @@
 <br>
 
 - 😃 Entusiasta em tecnologia
-- 👨🏾‍💻 PYTHON | FLASK | DOCKER
+- 👨🏾‍💻 PYTHON | FLASK | GIT
 - 📌 São Paulo, Brasil 
 
   
@@ -43,6 +43,7 @@
 </p>
 
 <!-- github workflow  .-->
+
 
 <div  align='Center'>
   <picture>
