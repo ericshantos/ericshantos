@@ -55,6 +55,9 @@
   <a href='https://www.markdownguide.org/'>
     <img alt='MarkDown' src='https://img.shields.io/badge/Markdown-964B00?style=for-the-badge&logo=markdown&logoColor=white'>
   </a>
+    <a href='https://www.markdownguide.org/'>
+    <img alt='MarkDown' src='https://img.shields.io/badge/Pre commit-daa520?style=for-the-badge&logo=precommit&logoColor=white'>
+  </a>
 </div>
 
 <div align="center">  
