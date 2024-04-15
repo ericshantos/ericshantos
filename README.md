@@ -28,8 +28,37 @@
 
 <hr>
 
+<h1 align='Center'>Linguagens e ferramentas 💻</h1>
+
+<div align='Center'>
+  <a href='https://www.python.org/'>
+    <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+  </a> 
+  <a href='https://flask.palletsprojects.com/en/3.0.x/'>
+    <img alt='Flask' src='https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white'>
+  </a> 
+  <a href='https://vscode.dev/'>
+    <img alt='Vscode' src='https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white'>
+  </a> 
+  <a href='https://www.notion.so/pt-br'>
+    <img alt='Notion' src='https://img.shields.io/badge/Notion-202020?style=for-the-badge&logo=notion&logoColor=white'>
+  </a> 
+  <a href='https://www.jetbrains.com/pt-br/pycharm/download/'>
+    <img alt='Pycharm' src='https://img.shields.io/badge/Pycharm-90EE90?style=for-the-badge&logo=pycharm&logoColor=white'>
+  </a>
+  <a href='https://git-scm.com/'>
+    <img alt='Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+  </a>
+  <a>
+    <img alt='Windows' src='https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white'>
+  </a>
+  <a href='https://www.markdownguide.org/'>
+    <img alt='MarkDown' src='https://img.shields.io/badge/Markdown-964B00?style=for-the-badge&logo=markdown&logoColor=white'>
+  </a>
+</div>
+
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
