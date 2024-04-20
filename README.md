@@ -30,7 +30,7 @@
 
 - 😃 Eu sou o Eric, desenvolvedor Python.
 - 👨🏾‍💻 Um entusiasta da capacidade da tecnologia em mudar paradigmas.
-- ⚙️Formado em Tecnologia da Informação. 
+- ⚙️ Formado em Tecnologia da Informação. 
 - 📌 De São Paulo, Brasil
 
 <br>
