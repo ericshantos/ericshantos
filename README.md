@@ -16,9 +16,9 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
-<br>
-
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
+
+<br>
 
 ## Linguagens e ferramentas 💻:
 
