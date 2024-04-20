@@ -10,73 +10,41 @@
 </div>
 
 <br>
-<br>
-
-- 😃 Entusiasta em tecnologia
-- 👨🏾‍💻 PYTHON | FLASK | GIT
-- 📌 São Paulo, Brasil 
-
-  
-
-<h3></h3>
-<div align="right">
-  <img alt="Python" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Git" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img alt="Flask" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img alt="MarkDown" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-</div>
-
-<hr>
-
-<h1 align='Center'>Linguagens e ferramentas 💻</h1>
-
-<div align='Center'>
-  <a href='https://www.python.org/'>
-    <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-  </a> 
-  <a href='https://flask.palletsprojects.com/en/3.0.x/'>
-    <img alt='Flask' src='https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white'>
-  </a> 
-  <a href='https://vscode.dev/'>
-    <img alt='Vscode' src='https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white'>
-  </a> 
-  <a href='https://www.notion.so/pt-br'>
-    <img alt='Notion' src='https://img.shields.io/badge/Notion-202020?style=for-the-badge&logo=notion&logoColor=white'>
-  </a> 
-  <a href='https://www.jetbrains.com/pt-br/pycharm/download/'>
-    <img alt='Pycharm' src='https://img.shields.io/badge/Pycharm-90EE90?style=for-the-badge&logo=pycharm&logoColor=white'>
-  </a>
-  <a href='https://git-scm.com/'>
-    <img alt='Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
-  </a>
-  <a>
-    <img alt='Windows' src='https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white'>
-  </a>
-  <a href='https://www.markdownguide.org/'>
-    <img alt='MarkDown' src='https://img.shields.io/badge/Markdown-964B00?style=for-the-badge&logo=markdown&logoColor=white'>
-  </a>
-    <a href='https://www.markdownguide.org/'>
-    <img alt='MarkDown' src='https://img.shields.io/badge/Pre commit-daa520?style=for-the-badge&logo=precommit&logoColor=white'>
-  </a>
-</div>
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<br>
 
+<img src="acessos/lineBar.png" width="100%" height="8px"/>
+
+## Linguagens e ferramentas 💻:
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python,flask,vscode,markdown,git,notion,github,windows,pycharm&theme=dark" />
+</div>
+
+## Sobre mim:
+
+- 😃 Eu sou o Eric, desenvolvedor Python.
+- 👨🏾‍💻 Um entusiasta da capacidade da tecnologia em mudar paradigmas.
+- ⚙️Formado em Tecnologia da Informação. 
+- 📌 De São Paulo, Brasil
+
+<br>
+
+<img src="acessos/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='Center'>Atividades</h2>
 <!-- visitors count  -->
 
-<p align="center" >   
+<div align="center" >   
   <img src="https://profile-counter.glitch.me/ericshantos/count.svg" />  
-</p>
+</div>
 
 <!-- github workflow  .-->
-
-
 <div  align='Center'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake-dark.svg">
@@ -84,3 +52,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:daa520,100:0000ff&height=120&section=footer"/>
