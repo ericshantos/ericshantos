@@ -18,8 +18,6 @@
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
-<br>
-
 ## Linguagens e ferramentas 💻:
 
 <div>
