@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0""> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="37%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&langs_count=8" />
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
@@ -32,6 +32,20 @@
 - 📌 De São Paulo, Brasil
 
 <br>
+
+<img src="acessos/lineBar.png" width="100%" height="8px"/>
+
+<h2>Projetos em destaque 👌🏾:<h2/> 
+
+<a href="https://github.com/ericshantos/API-meme-aleatorio">
+  <img alt="" height="140px" margin-right="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" style="display: inline-block; margin-right: 10px;" />
+</a> 
+<a href="https://github.com/ericshantos/assistente-fotografica">
+  <img alt="" height="140px" width="500px" margin-right="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" style="display: inline-block; margin-right: 10px;" />
+</a>
+<a href="https://github.com/ericshantos/Redator-ENEM">
+  <img alt="" height="140px" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=redator-ENEM" style="display: inline-block; margin-right: 10px;" />
+</a>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
