@@ -37,15 +37,18 @@
 
 <h2>Projetos em destaque 👌🏾:<h2/> 
 
-<a href="https://github.com/ericshantos/API-meme-aleatorio">
-  <img alt="" height="140px" margin-right="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" style="display: inline-block; margin-right: 10px;" />
-</a> 
-<a href="https://github.com/ericshantos/assistente-fotografica">
-  <img alt="" height="140px" width="500px" margin-right="5px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" style="display: inline-block; margin-right: 10px;" />
-</a>
-<a href="https://github.com/ericshantos/Redator-ENEM">
-  <img alt="" height="140px" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=redator-ENEM" style="display: inline-block; margin-right: 10px;" />
-</a>
+<div align=center>
+  <a href="https://github.com/ericshantos/API-meme-aleatorio">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" />
+  </a>
+  <a href="https://github.com/ericshantos/Redator-ENEM">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=Redator-ENEM" /> 
+  </a>
+  <a href="https://github.com/ericshantos/assistente-fotografica">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" />
+  </a>
+</div>
+
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
