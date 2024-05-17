@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0""> 
-  <img width="37%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact" />
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
@@ -33,8 +33,6 @@
 
 <br>
 
-<img src="acessos/lineBar.png" width="100%" height="8px"/>
-
 <h2>Projetos em destaque 👌🏾:<h2/> 
 
 <div align=center>
@@ -48,6 +46,8 @@
     <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" />
   </a>
 </div>
+
+<img src="acessos/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='Center'>Atividades</h2>
 <!-- visitors count  -->
