@@ -49,9 +49,6 @@
   </a>
 </div>
 
-
-<img src="acessos/lineBar.png" width="100%" height="8px"/>
-
 <h2 align='Center'>Atividades</h2>
 <!-- visitors count  -->
 
