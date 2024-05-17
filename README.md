@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0""> 
-  <img width="37%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&langs_count=8" />
+  <img width="37%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact" />
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
