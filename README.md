@@ -42,8 +42,8 @@
   <a href="https://github.com/ericshantos/Redator-ENEM">
     <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=Redator-ENEM" /> 
   </a>
-  <a href="https://github.com/ericshantos/assistente-fotografica">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=assistente-fotografica" />
+  <a href="https://github.com/ericshantos/galeria-online">
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=galeria-online" />
   </a>
 </div>
 
