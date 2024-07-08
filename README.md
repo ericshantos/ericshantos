@@ -21,7 +21,7 @@
 ## Linguagens e ferramentas 💻:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,flask,vscode,markdown,git,notion,github,windows,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,flask,vscode,markdown,git,notion,github,windows,pycharm&theme=dark" />
 </div>
 
 ## Sobre mim:
