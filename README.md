@@ -28,7 +28,8 @@
 
 - 😃 Eu sou o Eric, desenvolvedor Python.
 - 👨🏾‍💻 Um entusiasta da capacidade da tecnologia em mudar paradigmas.
-- ⚙️ Formado em Tecnologia da Informação. 
+- ⚙️ Formado em Tecnologia da Informação.
+- 🥼 Graduando em Ciências da Computação.
 - 📌 De São Paulo, Brasil
 
 <br>
@@ -40,10 +41,10 @@
     <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" />
   </a>
   <a href="https://github.com/ericshantos/Redator-ENEM">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=Redator-ENEM" /> 
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=ML-exercise" /> 
   </a>
   <a href="https://github.com/ericshantos/galeria-online">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=galeria-online" />
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=jogo-da-forca" />
   </a>
 </div>
 
