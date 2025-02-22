@@ -21,7 +21,7 @@
 ## Linguagens e ferramentas 💻:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,css,flask,vscode,markdown,git,notion,github,windows,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,flask,git,pytorch,docker,react,tensorflow,sass,next,express,linux&theme=dark" />
 </div>
 
 ## Sobre mim:
@@ -38,13 +38,13 @@
 
 <div align=center>
   <a href="https://github.com/ericshantos/API-meme-aleatorio">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=API-meme-aleatorio" />
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=hand_control" />
   </a>
   <a href="https://github.com/ericshantos/Redator-ENEM">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=ML-exercise" /> 
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=working_with_style_transfer" /> 
   </a>
   <a href="https://github.com/ericshantos/galeria-online">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=jogo-da-forca" />
+    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=br_fake_news_detector_model" />
   </a>
 </div>
 
