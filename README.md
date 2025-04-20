@@ -1,69 +1,61 @@
-<h1 align="center">Olá visitante, eu sou o Eric 🖖🏾</h1>
+<h1 align="center">Hello World 🌎 I'm Eric 🖖🏾</h1>
+
+<h3 align="center">
+  Computer Science Student and Full Stack Developer
+</h3>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/eric-sh/" style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a> <a href="mailto:ericshantos13@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a> <a href="https://discord.com/users/borosh." style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0""> 
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&layout=compact" />
+  <p>🚀 Transforming ideas into solutions through code</p>
+  <p>🎓 IT Graduate | Computer Science Undergrad</p>
+  <p>💡 Passionate about Open Source, AI, and Web Technologies</p>
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
-## Linguagens e ferramentas 💻:
-
-<div>
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,flask,git,pytorch,docker,react,tensorflow,sass,next,express,linux&theme=dark" />
+<div align="center" >
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericshantos&hide_progress=true" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericshantos&show_icons=true&theme=radical" />
 </div>
 
-## Sobre mim:
 
-- 😃 Eu sou o Eric, desenvolvedor Python.
-- 👨🏾‍💻 Um entusiasta da capacidade da tecnologia em mudar paradigmas.
-- ⚙️ Formado em Tecnologia da Informação.
-- 🥼 Graduando em Ciências da Computação.
-- 📌 De São Paulo, Brasil
+## 🛠️ Languages and Tools
 
-<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,next,flask,express,tensorflow,pytorch,docker,git,linux,aws&theme=dark" />
+</div>
 
-<h2>Projetos em destaque 👌🏾:<h2/> 
+## 🚀 Featured Projects
 
-<div align=center>
-  <a href="https://github.com/ericshantos/API-meme-aleatorio">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=hand_control" />
+<div align="center">
+  <a href="https://github.com/ericshantos/hand_control">
+    <img height="150px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=hand_control" />
   </a>
-  <a href="https://github.com/ericshantos/Redator-ENEM">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=working_with_style_transfer" /> 
+  <a href="https://github.com/ericshantos/fakeCheck">
+    <img height="150px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=fakeCheck" />
   </a>
-  <a href="https://github.com/ericshantos/galeria-online">
-    <img height="140px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=br_fake_news_detector_model" />
+  <a href="https://github.com/ericshantos/br_fake_news_detector_model">
+    <img height="150px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericshantos&repo=br_fake_news_detector_model" />
   </a>
 </div>
 
 <img src="acessos/lineBar.png" width="100%" height="8px"/>
 
-<h2 align='Center'>Atividades</h2>
-<!-- visitors count  -->
 
-<div align="center" >   
+<h2 align="center">📈 Activity</h2>
+
+<!-- Visitors Counter -->
+<div align="center">
   <img src="https://profile-counter.glitch.me/ericshantos/count.svg" />  
 </div>
 
-<!-- github workflow  .-->
-<div  align='Center'>
+<!-- GitHub Snake -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
+    <img width="80%" alt="github activity snake" src="https://raw.githubusercontent.com/ericshantos/ericshantos/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:daa520,100:0000ff&height=120&section=footer"/>
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:daa520,100:0000ff&height=120&section=footer&fontSize=30&fontColor=fff"/>
