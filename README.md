@@ -21,7 +21,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,next,flask,express,tensorflow,pytorch,docker,git,linux,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,next,nest,flask,express,pytorch,docker,git,linux,aws&theme=dark" />
 </div>
 
 ## 🚀 Featured Projects
@@ -42,11 +42,6 @@
 
 
 <h2 align="center">📈 Activity</h2>
-
-<!-- Visitors Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ericshantos/count.svg" />  
-</div>
 
 <!-- GitHub Snake -->
 <div align="center">
